@@ -102,8 +102,8 @@ MIT License
 
 ## 联系方式 📧
 
-- Telegram：[你的Telegram用户名]
-- Email：[你的邮箱]
+
+- Email：[xw43279@gmail.com]
 
 ## 致谢 🙏
 
